@@ -1,6 +1,6 @@
 # Ex. No.3   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 14.05.2025
+### DATE:20.05.2025 
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -46,14 +46,9 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![Screenshot 2025-05-06 104705](https://github.com/user-attachments/assets/d06e22c5-7ae2-4ffa-a1c4-b3ec153ecb9e)
+![Screenshot 2025-05-06 155611](https://github.com/user-attachments/assets/1e75db8f-c819-408f-8d34-1ec5dbcf7bf2)
 
-
-![Screenshot 2025-05-06 104731](https://github.com/user-attachments/assets/dbc4ad63-34b4-4c25-b433-c64a17398cbf)
-
-
-
-### Name: ARAVINDAN D
+### Name:ARAVINDAN D
 ### Register Number:212223240012
 
 ## RESULT:
